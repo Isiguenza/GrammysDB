@@ -58,15 +58,15 @@ Antes de poder correr nuestro codigo es necesario instalar las siguientes depend
   ```sh
   pip install spotipy
   ```
-  * pyodbc
-  ```sh
-  pip install pyodbc
-  ```
-   * pandas
+* pyodbc
+ ```sh
+ pip install pyodbc
+ ```
+ * pandas
   ```sh
   pip install pandas
   ```
-   * sqlalchemy
+ * sqlalchemy
   ```sh
   pip install sqlalchemy
   ```
