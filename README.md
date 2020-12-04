@@ -1,4 +1,4 @@
-[![Contributors][contributors-shield]][https://github.com/Isiguenza/GrammysDB/graphs/contributors]
+[![Contributors][contributors-shield]][contributors-url]
 
 
 <br />
