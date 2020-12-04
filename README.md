@@ -21,6 +21,8 @@
 
 ## Sobre el Proyecto
 
+![Diagrama ER](https://github.com/Isiguenza/GrammysDB/blob/main/assets/Tabla%20Ent%20Rel%20DB%20Final.png)
+
 There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
 Here's why:
@@ -39,11 +41,11 @@ Estos fueron los las librerias, lenguajes y base de datos que utilizamos.
 * [Spotipy](https://spotipy.readthedocs.io/en/2.16.1/)
 * [Azure](https://azure.microsoft.com/)
 
-### Historia de lo sdatos
+### Origen de los datos
 
-Para poder obtener los datos que conforman nuestra base de datos creamos un código en python que recopila los datos de una playlist de spotify (título, artista, álbum, año del lanzamiento del álbum, autor y disquera)  esto con el fin de  poder crear una base de datos limpia y sin datos  innecesarios.
+Para poder obtener los datos que conforman nuestra base de datos creamos un [código en python](https://github.com/Isiguenza/GrammysDB/blob/main/spotify_db_final.py) que recopila los datos de una playlist de spotify (título, artista, álbum, año del lanzamiento del álbum, autor y disquera)  esto con el fin de  poder crear una base de datos limpia y sin datos  innecesarios.
 
-<!-- GETTING STARTED -->
+### Historia de losdatos
 ## Getting Started
 
 This is an example of how you may give instructions on setting up your project locally.
