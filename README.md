@@ -55,16 +55,10 @@ To get a local copy up and running follow these simple example steps.
 
 Antes de poder correr nuestro codigo es necesario instalar las siguientes dependencias.
 * Spotipy | Pyodbc | Pandas | Sqlalchemy
- ```sh
+ ```py
  pip install spotipy
- ```
- ```sh
  pip install pyodbc
- ```
- ```sh
  pip install pandas
- ```
- ```sh
  pip install sqlalchemy
  ```
 
