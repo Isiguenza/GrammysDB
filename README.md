@@ -39,7 +39,9 @@ Estos fueron los las librerias, lenguajes y base de datos que utilizamos.
 * [Spotipy](https://spotipy.readthedocs.io/en/2.16.1/)
 * [Azure](https://azure.microsoft.com/)
 
+### Historia de lo sdatos
 
+Para poder obtener los datos que conforman nuestra base de datos creamos un código en python que recopila los datos de una playlist de spotify (título, artista, álbum, año del lanzamiento del álbum, autor y disquera)  esto con el fin de  poder crear una base de datos limpia y sin datos  innecesarios.
 
 <!-- GETTING STARTED -->
 ## Getting Started
