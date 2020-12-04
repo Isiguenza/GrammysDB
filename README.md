@@ -23,16 +23,12 @@
 
 ![Diagrama ER](https://github.com/Isiguenza/GrammysDB/blob/main/assets/screenshot.png)
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+En este proyecto se abordará la creación y uso de bases de datos con lenguaje de python para poder administrar la manera en que una variedad de canciones se relacionan con sus autores, intérpretes, álbumes, género disquera y posibles premios Grammys (2000-2020).
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should element DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have have contributed to expanding this template!
-
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
+Porque sobre los premios Grammy:
+* Nos inspiramos por los recientes premiso Grammy.
+* No existe alguna base de datos que relaciona los datos de Spotify con los Premios Grammy
+* Creimos que era la base de datos más completa :smile:
 
 ### Desarrollo
 
@@ -45,11 +41,15 @@ Estos fueron los las librerias, lenguajes y base de datos que utilizamos.
 
 Para poder obtener los datos que conforman nuestra base de datos creamos un [código en python](https://github.com/Isiguenza/GrammysDB/blob/main/spotify_db_final.py) que recopila los datos de una playlist de spotify (título, artista, álbum, año del lanzamiento del álbum, autor y disquera)  esto con el fin de  poder crear una base de datos limpia y sin datos  innecesarios.
 
-### Historia de losdatos
-## Getting Started
+### Historia de los datos
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+Los premios Grammy (originalmente, Gramophone Award) son una distinción otorgada por la Academia Nacional de Artes y Ciencias de la Grabación de Estados Unidos para dar reconocimiento a un logro especialmente destacado en la industria musical. La ceremonia de entrega anual cuenta con las actuaciones de artistas y con la presentación de aquellos premios que despiertan un mayor interés popular. 
+
+La primera ceremonia de los premios Grammy se celebró el 4 de mayo de 1959, para honrar y respetar los logros musicales de los artistas intérpretes o ejecutantes del año 1958. Actualmente los premios Grammy se celebran cada año  y se premian alrededor de 87 categorías. 
+
+Dentro de nuestra playlist contamos con 65 álbumes de 54 artistas diferentes que fueron ganadores o nominados a algún premio Grammy entre el año 2000 y 2019. Los géneros que abarcamos son: alternativo, country, dance, pop, rock, electrónica, hip-hop/rap, rap, R&B, hip house, indie pop, neo soul y pop latino. 
+
+Se tiene también el listado de 29 disqueras involucradas por cada álbum y para los casos especiales en el que hubiera un álbum producido por dos o más disqueras se consideró solo una; lo mismo aplica para más de un artista o autor de las canciones.
 
 ### Prerequisitos
 
