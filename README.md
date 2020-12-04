@@ -21,7 +21,7 @@
 
 ## Sobre el Proyecto
 
-![Diagrama ER](https://github.com/Isiguenza/GrammysDB/blob/main/assets/Tabla%20Ent%20Rel%20DB%20Final.png)
+![Diagrama ER](https://github.com/Isiguenza/GrammysDB/blob/main/assets/screenshot.png)
 
 There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
