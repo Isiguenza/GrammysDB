@@ -10,7 +10,7 @@
   <h3 align="center">(2000-2020) Grammys DB</h3>
 
   <p align="center">
-    Base de Datos no relacional de lo spremiso Grammys (2000-2020)
+    Base de Datos no relacional de los premios Grammys (2000-2020)
     <br />
     <a href="https://github.com/Isiguenza/GrammysDB"><strong>Proyecto</strong></a>
     <br />
