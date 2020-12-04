@@ -65,8 +65,8 @@ Antes de poder correr nuestro codigo es necesario instalar las siguientes depend
 
 ## Contributors y Contacto
 
-Iñaki Sigüenza - [@inakisiguenza](https://github.com/Isiguenza)
-Mariana Navarrete - [@hotelshrimpdraw]()
-Alia González - [@aliag]()
+* Iñaki Sigüenza - [@inakisiguenza](https://github.com/Isiguenza)
+* Mariana Navarrete - [@hotelshrimpdraw]()
+* Alia González - [@aliag]()
 
-Link del Proyecto: [https://github.com/Isiguenza/GrammysDB](https://github.com/Isiguenza/GrammysDB)
+* Link del Proyecto: [https://github.com/Isiguenza/GrammysDB](https://github.com/Isiguenza/GrammysDB)
