@@ -39,7 +39,7 @@ Estos fueron los las librerias, lenguajes y base de datos que utilizamos.
 
 ### Origen de los datos
 
-Para poder obtener los datos que conforman nuestra base de datos creamos un [código en python](https://github.com/Isiguenza/GrammysDB/blob/main/spotify_db_final.py) que recopila los datos de una playlist de spotify (título, artista, álbum, año del lanzamiento del álbum, autor y disquera)  esto con el fin de  poder crear una base de datos limpia y sin datos  innecesarios.
+Para poder obtener los datos que conforman nuestra base de datos creamos un [código en python](https://github.com/Isiguenza/GrammysDB/blob/main/spotify_data.py) que recopila los datos de una playlist de spotify (título, artista, álbum, año del lanzamiento del álbum, autor y disquera)  esto con el fin de  poder crear una base de datos limpia y sin datos  innecesarios.
 
 ### Historia de los datos
 
